@@ -1,0 +1,2 @@
+# Ai-kurssi
+Building AI
